@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-Wir sind ein Minecraft SMO Netzwerk!
-Komm uns doch besuchen [Hier](https://skyparkmc.de)!
+Wir sind ein Minecraft SMP Netzwerk!
+
+Komm uns doch [Hier](https://skyparkmc.de) besuchen!
 <!--
 
 **Here are some ideas to get you started:**
